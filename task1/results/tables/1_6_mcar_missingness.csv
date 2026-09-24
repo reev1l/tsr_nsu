@@ -1,0 +1,9 @@
+dataset,missing_cells,rows_with_missing,missing_A,missing_B,missing_C,missing_D
+dfSd00,0,0,0,0,0,0
+dfSd01,40,40,11,8,10,11
+dfSd02,80,76,25,18,18,19
+dfSd05,200,180,58,57,44,41
+dfSd10,400,339,97,111,85,107
+dfSd20,800,592,193,198,204,205
+dfSd50,2000,939,480,502,510,508
+dfSd80,3200,999,810,786,796,808

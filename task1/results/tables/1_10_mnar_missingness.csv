@@ -1,0 +1,7 @@
+dataset,missing_cells,rows_with_missing,missing_A,missing_B,missing_C,missing_D
+dfS00,0,0,0,0,0,0
+dfMNAR,1000,744,0,0,500,500
+dfMNAR_median,0,0,0,0,0,0
+dfMNAR_knn,0,0,0,0,0,0
+dfMNAR_regression,0,0,0,0,0,0
+dfMNAR_mice,0,0,0,0,0,0

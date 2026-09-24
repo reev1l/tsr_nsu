@@ -1,0 +1,7 @@
+dataset,missing_cells,rows_with_missing,missing_A,missing_B,missing_C,missing_D
+dfSd00,0,0,0,0,0,0
+dfSd20,800,592,193,198,204,205
+dfSd20_median,0,0,0,0,0,0
+dfSd20_knn,0,0,0,0,0,0
+dfSd20_regression,0,0,0,0,0,0
+dfSd20_mice,0,0,0,0,0,0
